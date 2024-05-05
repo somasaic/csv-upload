@@ -1,0 +1,27 @@
+Email,Name,College,Status,DSA Final Score,Web Development Final Score,React Final Score,Interview Company,Interview Date,Interview Result
+somasaicheviti@gmail.com,Dinesh,MITS,Placed,12343,11234,10234,META,4/15/2024,On Hold
+esha@cn.com,Esha,VIT,Placed,10235,98765,11100,META,4/15/2024,Pass
+suppi@cn.com,supriya,SRM,Not Placed,12340,11120,9870,META,4/15/2024,Didn't Attempt
+praveen@cn.com,Praveen,RGM,Not Placed,9845,12120,9812,META,4/15/2024,Fail
+malli@cn.com,Malli,VELTECH,Placed,11233,10980,89011,META,4/15/2024,Pass
+ricky@cn.com,Ricky,GITAMS,Not Placed,9080,8970,8760,META,4/15/2024,On Hold
+somasaicheviti@gmail.com,Dinesh,MITS,Placed,12343,11234,10234,GOOGLE,4/13/2024,Didn't Attempt
+esha@cn.com,Esha,VIT,Placed,10235,98765,11100,GOOGLE,4/13/2024,Registered
+suppi@cn.com,supriya,SRM,Not Placed,12340,11120,9870,GOOGLE,4/13/2024,Fail
+malli@cn.com,Malli,VELTECH,Placed,11233,10980,89011,GOOGLE,4/13/2024,Pass
+somasaicheviti@gmail.com,Dinesh,MITS,Placed,12343,11234,10234,APPLE,4/3/2024,Registered
+esha@cn.com,Esha,VIT,Placed,10235,98765,11100,APPLE,4/3/2024,On Hold
+praveen@cn.com,Praveen,RGM,Not Placed,9845,12120,9812,APPLE,4/3/2024,Didn't Attempt
+malli@cn.com,Malli,VELTECH,Placed,11233,10980,89011,APPLE,4/3/2024,On Hold
+ricky@cn.com,Ricky,GITAMS,Not Placed,9080,8970,8760,APPLE,4/3/2024,Fail
+somasaicheviti@gmail.com,Dinesh,MITS,Placed,12343,11234,10234,CODING NINJAS,4/23/2024,Fail
+suppi@cn.com,supriya,SRM,Not Placed,12340,11120,9870,CODING NINJAS,4/23/2024,On Hold
+praveen@cn.com,Praveen,RGM,Not Placed,9845,12120,9812,CODING NINJAS,4/23/2024,On Hold
+malli@cn.com,Malli,VELTECH,Placed,11233,10980,89011,CODING NINJAS,4/23/2024,Fail
+cn@cn.com,Coding Ninjas,CN,Placed,12345,9876,8907,CODING NINJAS,4/23/2024,Pass
+somasaicheviti@gmail.com,Dinesh,MITS,Placed,12343,11234,10234,INFOSYS,4/28/2024,Registered
+suppi@cn.com,supriya,SRM,Not Placed,12340,11120,9870,INFOSYS,4/28/2024,Fail
+malli@cn.com,Malli,VELTECH,Placed,11233,10980,89011,INFOSYS,4/28/2024,Didn't Attempt
+ricky@cn.com,Ricky,GITAMS,Not Placed,9080,8970,8760,INFOSYS,4/28/2024,On Hold
+cn@cn.com,Coding Ninjas,CN,Placed,12345,9876,8907,INFOSYS,4/28/2024,Fail
+hethu@cn.com,hethu,MITS,Placed,11234,8907,9087,INFOSYS,4/28/2024,Pass

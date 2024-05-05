@@ -1,0 +1,16 @@
+Email,Name,College,Status,DSA Final Score,Web Development Final Score,React Final Score,Interview Company,Interview Date,Interview Result
+dinesh@cn.com,Dinesh,SRM,Placed,8,9,8,META,4/24/2024,Pass
+soma@cn.com,soma,VIT,Not Placed,7,8,5,META,4/24/2024,On Hold
+malli@cn.com,Malli,VELTECH,Placed,7,6,4,META,4/24/2024,Fail
+esha@cn.com,Esha,SRM,Not Placed,7,6,6,META,4/24/2024,Didn't Attempt
+cn@cn.com,Coding Ninjas,CN,Not Placed,6,8,7,META,4/24/2024,Didn't Attempt
+dinesh@cn.com,Dinesh,SRM,Placed,8,9,8,CODING NINJAS,4/23/2024,Pass
+soma@cn.com,soma,VIT,Not Placed,7,8,5,CODING NINJAS,4/23/2024,On Hold
+malli@cn.com,Malli,VELTECH,Placed,7,6,4,CODING NINJAS,4/23/2024,Fail
+esha@cn.com,Esha,SRM,Not Placed,7,6,6,CODING NINJAS,4/23/2024,On Hold
+cn@cn.com,Coding Ninjas,CN,Not Placed,6,8,7,CODING NINJAS,4/23/2024,Didn't Attempt
+dinesh@cn.com,Dinesh,SRM,Placed,8,9,8,SWIGGY,4/21/2024,Didn't Attempt
+soma@cn.com,soma,VIT,Not Placed,7,8,5,SWIGGY,4/21/2024,Fail
+malli@cn.com,Malli,VELTECH,Placed,7,6,4,SWIGGY,4/21/2024,Pass
+esha@cn.com,Esha,SRM,Not Placed,7,6,6,SWIGGY,4/21/2024,Registered
+cn@cn.com,Coding Ninjas,CN,Not Placed,6,8,7,SWIGGY,4/21/2024,On Hold
